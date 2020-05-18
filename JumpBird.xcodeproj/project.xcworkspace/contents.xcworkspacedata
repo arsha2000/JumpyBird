@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SwiftChallenge.xcodeproj">
+      location = "self:/Users/arsha/Documents/JumpyBird/JumpBird.xcodeproj">
    </FileRef>
 </Workspace>

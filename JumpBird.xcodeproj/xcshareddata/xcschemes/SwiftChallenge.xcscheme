@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E9FBD578246739A5009D59A6"
-               BuildableName = "SwiftChallenge.app"
-               BlueprintName = "SwiftChallenge"
-               ReferencedContainer = "container:SwiftChallenge.xcodeproj">
+               BuildableName = "JumpBird.app"
+               BlueprintName = "JumpBird"
+               ReferencedContainer = "container:JumpBird.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E9FBD578246739A5009D59A6"
-            BuildableName = "SwiftChallenge.app"
-            BlueprintName = "SwiftChallenge"
-            ReferencedContainer = "container:SwiftChallenge.xcodeproj">
+            BuildableName = "JumpBird.app"
+            BlueprintName = "JumpBird"
+            ReferencedContainer = "container:JumpBird.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,9 +69,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E9FBD578246739A5009D59A6"
-            BuildableName = "SwiftChallenge.app"
-            BlueprintName = "SwiftChallenge"
-            ReferencedContainer = "container:SwiftChallenge.xcodeproj">
+            BuildableName = "JumpBird.app"
+            BlueprintName = "JumpBird"
+            ReferencedContainer = "container:JumpBird.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
